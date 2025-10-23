@@ -62,16 +62,10 @@ source /opt/ros/noetic/setup.sh
 ./build.sh ROS1
 ```
 
-#### For ROS2 Foxy:
+#### For ROS2:
 ```shell
 source /opt/ros/foxy/setup.sh
 ./build.sh ROS2
-```
-
-#### For ROS2 Humble:
-```shell
-source /opt/ros/humble/setup.sh
-./build.sh humble
 ```
 
 ### 2.4 Run Livox ROS Driver 2:
