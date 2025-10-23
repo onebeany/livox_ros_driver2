@@ -13,7 +13,7 @@ Livox ROS Driver 2 is the 2nd-generation driver package used to connect LiDAR pr
   * Ubuntu 18.04 for ROS Melodic;
   * Ubuntu 20.04 for ROS Noetic and ROS2 Foxy;
   * Ubuntu 22.04 for ROS2 Humble;
-
+  
   **Tips:**
 
   Colcon is a build tool used in ROS2.
